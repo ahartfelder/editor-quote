@@ -2,7 +2,7 @@ class QuotesController < ApplicationController
   before_action :set_quote, except: [:index, :new, :create]
   
   def index
-    @quotes = Quote.all
+    @quotes = Quote.ordered
   end
 
   def show
