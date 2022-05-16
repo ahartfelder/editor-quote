@@ -1,4 +1,5 @@
 // config
+@import "./config/animations";
 @import "./config/reset";
 @import "./config/variables";
 
@@ -12,6 +13,7 @@
 // components
 @import "./components/btn";
 @import "./components/error_message";
+@import "./components/flash";
 @import "./components/form";
 @import "./components/navbar";
 @import "./components/quote";
