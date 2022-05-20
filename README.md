@@ -6,11 +6,11 @@ An excelent material to undestand how Turbo works on Ruby on Rails 7 application
 
 If you wanna try my website, please follow this instructions:
 
-1- Enter 
+1- Enter my website: https://quote-editor-ahart.herokuapp.com/
 
 2- Login as accountant@kpmg.com with password: "password".
 
-3- Open a new browser window as incognito and log in as manager@kpmg.com with password: "password".
+3- Open a new incognito window and log in as manager@kpmg.com with password: "password".
 
 4- Create a new quote to see the broadcasting working. Try some other options with quotes.
 
